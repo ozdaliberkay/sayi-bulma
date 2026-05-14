@@ -4,6 +4,7 @@ Bu proje, verilen 6 sayı (5 tek basamaklı, 1 çift basamaklı) ve temel aritme
 
 ## 🎥 Proje Tanıtım Videosu
 
+▶️ **Videoyu izlemek için görsele tıkla**
 [![Watch the video](https://img.youtube.com/vi/5Cpb_VxzRoo/maxresdefault.jpg)](https://youtu.be/5Cpb_VxzRoo)
 
 ## Çalışma Mantığı
