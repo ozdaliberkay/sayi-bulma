@@ -2,6 +2,10 @@
 
 Bu proje, verilen 6 sayı (5 tek basamaklı, 1 çift basamaklı) ve temel aritmetik işlemler (+, -, *, /) kullanılarak hedef bir sayıya ulaşmaya çalışılan klasik "Bir İşlem" oyununun dijital versiyonudur.
 
+## 🎥 Proje Tanıtım Videosu
+
+[![Watch the video](https://img.youtube.com/vi/5Cpb_VxzRoo/maxresdefault.jpg)](https://youtu.be/5Cpb_VxzRoo)
+
 ## Çalışma Mantığı
 
 Uygulama, hedef sayıya ulaşmak için **Geri İzleme (Backtracking)** algoritmasını kullanır. Çözüm süreci şu adımları izler:
